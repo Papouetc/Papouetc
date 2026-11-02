@@ -2,7 +2,8 @@
 <h3 align="center">A passionate fullstack developer from Bamako</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papouetc&label=Profile%20views&color=0e75b6&style=flat" alt="papouetc" /> </p>
-[![committers.top badge](https://user-badge.committers.top/mali_private/USERNAME.svg)](https://user-badge.committers.top/mali_private/Papouetc)
+[![committers.top badge](https://committers.top)](https://committers.top)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papouetc" alt="papouetc" /></a> </p>
 
