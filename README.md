@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papouetc&label=Profile%20views&color=0e75b6&style=flat" alt="papouetc" /> </p>
 <p align="left">
-  <a href="https://committers.top">
-    <img src="https://committers.top" alt="Mali GitHub Committer Badge" />
+  <a href="https://committers.top/mali">
+    <img src="https://user-badge.committers.top/mali/papouetc.svg" alt="Mali GitHub Committer Badge" />
   </a>
 </p>
 
